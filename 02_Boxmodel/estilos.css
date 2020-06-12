@@ -1,0 +1,42 @@
+/ * * {
+    color de fondo: verde azulado;
+} * /
+
+h1 {
+    borde : 2 px negro sólido;
+    ancho : 700 px ;
+    altura : 100 px ;
+    margen superior : 100 px ;
+    pantalla : bloque en línea;
+}
+
+p {
+    borde : 2 px  # 64e210 sólido;
+    / * ancho: 150px;
+    altura: 150 px; * /
+    pantalla : bloque en línea;
+    margen izquierdo : 144 px ;
+}
+
+un {
+    borde : 2 px  rgb ( 31 ,  9 ,  231 ) sólido;
+}
+    / * margen superior:;
+       margen izquierdo 
+       margen inferior
+       margen derecho: 
+    * /
+    / * relleno-izquierda:;
+    acolchado superior: ;
+    derecho de relleno:;
+    fondo acolchado: ; * /
+. contenedor {
+    borde : 2 px sólido rgb ( 116 ,  5 ,  131 );
+    altura : 70 px ;
+        / * arriba / abajo r / l * /
+    margen : 10 px     100 px ;
+}
+. elemento {
+         / * tbrl * /
+    margen : 0  0  10 px  750 px ;
+}

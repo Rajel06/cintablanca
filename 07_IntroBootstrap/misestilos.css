@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+}
+
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+
+p{
+  margin-top: 60px;
+  text-align: justify;
+  padding: 5px;
+}
+
+

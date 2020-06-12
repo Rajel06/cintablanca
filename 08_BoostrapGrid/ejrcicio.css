@@ -1,0 +1,50 @@
+head{
+    background-color: rgb(221, 218, 218);
+}
+h1{
+    text-align: center;
+}
+
+
+.my-container{
+    border: 3px solid black;
+    height: 700px;
+}
+
+.my-row{
+    border: 2px solid blue;
+    height: 620px;
+}
+
+.my-col{
+    border: 2px solid green;
+    height: 615px;
+   
+}
+
+.my-card{
+    width: 20px;
+    height: 30px;
+}
+
+.my-cardt{
+    text-align: center;
+}
+
+.my-card{
+    margin-top: 30px;
+}
+
+.my-card1{
+    margin-left: 320px;
+    padding-bottom: 30px;
+}
+
+.my-cardb1{
+    margin-bottom: 50px ;
+}
+
+.my-img1{
+    height: 200px;
+    width: 100px;
+}

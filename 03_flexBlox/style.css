@@ -1,0 +1,15 @@
+.padre{
+    width: 600px;
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hijos{
+    width: 150px;
+    height: 150px;
+    border: 2px solid green;
+}

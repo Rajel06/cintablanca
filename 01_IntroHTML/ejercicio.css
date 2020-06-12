@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(138, 191, 206);
+}
+
+h2{ 
+    text-align: center;
+    color: black;
+
+    
+}
+
+h4{
+
+    color: black;
+    font-size: medium;
+}
+
+.nombre {
+    font-size: 20px;
+    color: black;
+}
+
+
+p{
+    font-size: 20px;
+    color: black;
+}
+
+
+img{
+    width: 250px;
+}

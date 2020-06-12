@@ -1,0 +1,20 @@
+*{
+    background-color: aqua;
+}
+
+h1{ 
+    text-align: center;
+    color:white;
+
+    
+}
+
+img{
+    width: 250px;
+}
+
+
+
+.nombre {
+    font-size: 30px;
+}
